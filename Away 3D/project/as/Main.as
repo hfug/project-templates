@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.${classExtends};		/**	 * @author johnbarrett	 */	public class Main extends ${classExtends} {		public function Main() {						// Launch your application by right clicking within this class and select: Deubg As > FDT SWF Application		}	}}
